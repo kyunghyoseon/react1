@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kyunghyoseon/react1.git/static/css/main.1f0f51ce.css",
+    "main.js": "/kyunghyoseon/react1.git/static/js/main.0ec90938.js",
+    "static/js/787.ab685bf0.chunk.js": "/kyunghyoseon/react1.git/static/js/787.ab685bf0.chunk.js",
+    "index.html": "/kyunghyoseon/react1.git/index.html",
+    "main.1f0f51ce.css.map": "/kyunghyoseon/react1.git/static/css/main.1f0f51ce.css.map",
+    "main.0ec90938.js.map": "/kyunghyoseon/react1.git/static/js/main.0ec90938.js.map",
+    "787.ab685bf0.chunk.js.map": "/kyunghyoseon/react1.git/static/js/787.ab685bf0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f0f51ce.css",
+    "static/js/main.0ec90938.js"
+  ]
+}
